@@ -1,0 +1,79 @@
+.container{
+    width: 1110px;
+    margin: 0 auto;
+}
+body{
+    background-color: rgb(248, 199, 199);
+
+}
+h1{margin-top: 100px;
+    font-size: 22px;
+    color: brown;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.inp{
+    height: 130px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+
+}
+.title{
+    margin-top: 100px;
+    font-size: 25px;
+    color: brown;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+    margin-bottom: 90px;
+}
+.text{
+    width: 600px;
+    height: 40px;
+    margin-top: 30px;
+    font-size: 22px;
+    color: brown;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: none;
+
+}
+.text:hover{
+    border-radius: 0px;
+}
+button{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    margin-top: 20px;
+  font-size: 22px;
+}
+button:hover{
+    background-color: white;
+    color: green;
+}
+.kino{
+    margin-top: 100px;
+    font-size: 22px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.multfilm{
+    margin-top: 100px;
+    font-size: 22px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.inner{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
